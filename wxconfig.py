@@ -15,8 +15,8 @@ WECHAT_CORP_SECRET = "cKytHTd3QQwTA4dBKRkfAJtS8qEK2e9EHShM4jXPQUs" # 全局密�
 WECHAT_ADDR_SECRET = "gJCVclRNYDDf5pprnOjzTbpZN2RGYDahbBJZbcSqxiI" # 通讯录密钥
 WECHAT_CRM_SECRET = "gJCVclRNYDDf5pprnOjzTbpZN2RGYDahbBJZbcSqxiI" # 客户联系密钥
 WECHAT_AES_KEY='NmjjvF3xqdUhtuJBkLcTIFwhaFFP8JFlJNoFPipzELj'    # 对称加密key
-WECHAT_PAY_SECRET = 'c28868c9f12711e8bab15254005c9e8b'  # 微信支付密钥
-WECHAT_PAY_MCHID = '1519091801' # 微信商户号id
+WECHAT_PAY_SECRET = 'c28868c9f12711e8bab15254005c9e'  # 微信支付密钥
+WECHAT_PAY_MCHID = '151909180' # 微信商户号id
 
 # 微信支付数字证书
 current_path = os.path.abspath(__file__)
